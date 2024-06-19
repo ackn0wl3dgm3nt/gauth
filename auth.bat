@@ -1,0 +1,2 @@
+python auth.py
+PAUSE
